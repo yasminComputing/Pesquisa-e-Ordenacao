@@ -1,0 +1,28 @@
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.AssemblyInfo.cs
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\bin\Debug\net10.0\ProjetoMedicacaoEmC#.exe
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\bin\Debug\net10.0\ProjetoMedicacaoEmC#.deps.json
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\bin\Debug\net10.0\ProjetoMedicacaoEmC#.runtimeconfig.json
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\bin\Debug\net10.0\ProjetoMedicacaoEmC#.dll
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\bin\Debug\net10.0\ProjetoMedicacaoEmC#.pdb
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.dll
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\obj\Debug\net10.0\refint\ProjetoMedicacaoEmC#.dll
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.pdb
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.genruntimeconfig.cache
+C:\Users\laboratorio\Downloads\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ref\ProjetoMedicacaoEmC#.dll
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\bin\Debug\net10.0\ProjetoMedicacaoEmC#.exe
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\bin\Debug\net10.0\ProjetoMedicacaoEmC#.deps.json
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\bin\Debug\net10.0\ProjetoMedicacaoEmC#.runtimeconfig.json
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\bin\Debug\net10.0\ProjetoMedicacaoEmC#.dll
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\bin\Debug\net10.0\ProjetoMedicacaoEmC#.pdb
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.AssemblyInfoInputs.cache
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.AssemblyInfo.cs
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.dll
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\obj\Debug\net10.0\refint\ProjetoMedicacaoEmC#.dll
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.pdb
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ProjetoMedicacaoEmC#.genruntimeconfig.cache
+C:\Users\yasmi\OneDrive\Documentos\Universidade\5 semestre\Pesquisa e Ordenação\ProjetoMedicacaoEmC#\obj\Debug\net10.0\ref\ProjetoMedicacaoEmC#.dll

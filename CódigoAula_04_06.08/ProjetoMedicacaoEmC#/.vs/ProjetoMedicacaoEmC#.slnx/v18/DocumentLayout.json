@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasmi\\OneDrive\\Documentos\\Universidade\\5 semestre\\Pesquisa e Ordena\u00E7\u00E3o\\ProjetoMedicacaoEmC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85C03220-47B1-A2A7-295A-171E2D35B01F}|ProjetoMedicacaoEmC#.csproj|c:\\users\\yasmi\\onedrive\\documentos\\universidade\\5 semestre\\pesquisa e ordena\u00E7\u00E3o\\projetomedicacaoemc#\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C03220-47B1-A2A7-295A-171E2D35B01F}|ProjetoMedicacaoEmC#.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C03220-47B1-A2A7-295A-171E2D35B01F}|ProjetoMedicacaoEmC#.csproj|c:\\users\\yasmi\\onedrive\\documentos\\universidade\\5 semestre\\pesquisa e ordena\u00E7\u00E3o\\projetomedicacaoemc#\\controller\\listacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C03220-47B1-A2A7-295A-171E2D35B01F}|ProjetoMedicacaoEmC#.csproj|solutionrelative:controller\\listacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C03220-47B1-A2A7-295A-171E2D35B01F}|ProjetoMedicacaoEmC#.csproj|c:\\users\\yasmi\\onedrive\\documentos\\universidade\\5 semestre\\pesquisa e ordena\u00E7\u00E3o\\projetomedicacaoemc#\\view\\listaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C03220-47B1-A2A7-295A-171E2D35B01F}|ProjetoMedicacaoEmC#.csproj|solutionrelative:view\\listaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C03220-47B1-A2A7-295A-171E2D35B01F}|ProjetoMedicacaoEmC#.csproj|c:\\users\\yasmi\\onedrive\\documentos\\universidade\\5 semestre\\pesquisa e ordena\u00E7\u00E3o\\projetomedicacaoemc#\\model\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C03220-47B1-A2A7-295A-171E2D35B01F}|ProjetoMedicacaoEmC#.csproj|solutionrelative:model\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaView.cs",
+              "DocumentMoniker": "C:\\Users\\yasmi\\OneDrive\\Documentos\\Universidade\\5 semestre\\Pesquisa e Ordena\u00E7\u00E3o\\ProjetoMedicacaoEmC#\\View\\ListaView.cs",
+              "RelativeDocumentMoniker": "View\\ListaView.cs",
+              "ToolTip": "C:\\Users\\yasmi\\OneDrive\\Documentos\\Universidade\\5 semestre\\Pesquisa e Ordena\u00E7\u00E3o\\ProjetoMedicacaoEmC#\\View\\ListaView.cs",
+              "RelativeToolTip": "View\\ListaView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T13:18:53.832Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaController.cs",
+              "DocumentMoniker": "C:\\Users\\yasmi\\OneDrive\\Documentos\\Universidade\\5 semestre\\Pesquisa e Ordena\u00E7\u00E3o\\ProjetoMedicacaoEmC#\\Controller\\ListaController.cs",
+              "RelativeDocumentMoniker": "Controller\\ListaController.cs",
+              "ToolTip": "C:\\Users\\yasmi\\OneDrive\\Documentos\\Universidade\\5 semestre\\Pesquisa e Ordena\u00E7\u00E3o\\ProjetoMedicacaoEmC#\\Controller\\ListaController.cs",
+              "RelativeToolTip": "Controller\\ListaController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T13:20:35.9Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\yasmi\\OneDrive\\Documentos\\Universidade\\5 semestre\\Pesquisa e Ordena\u00E7\u00E3o\\ProjetoMedicacaoEmC#\\Principal.cs",
+              "RelativeDocumentMoniker": "Principal.cs",
+              "ToolTip": "C:\\Users\\yasmi\\OneDrive\\Documentos\\Universidade\\5 semestre\\Pesquisa e Ordena\u00E7\u00E3o\\ProjetoMedicacaoEmC#\\Principal.cs",
+              "RelativeToolTip": "Principal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T13:38:35.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\yasmi\\OneDrive\\Documentos\\Universidade\\5 semestre\\Pesquisa e Ordena\u00E7\u00E3o\\ProjetoMedicacaoEmC#\\Model\\Utilidades.cs",
+              "RelativeDocumentMoniker": "Model\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\yasmi\\OneDrive\\Documentos\\Universidade\\5 semestre\\Pesquisa e Ordena\u00E7\u00E3o\\ProjetoMedicacaoEmC#\\Model\\Utilidades.cs",
+              "RelativeToolTip": "Model\\Utilidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T13:20:46.384Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
