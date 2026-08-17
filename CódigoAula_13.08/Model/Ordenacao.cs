@@ -3,13 +3,13 @@
 class Ordenacao
 {
 
-    public static void Bolha(List<int> lista)
+    public static void Bolha(List<int> lista,out int qtdComparacoes,out int qtdTrocas)
     {
         bool houveTroca;
         int tmp;
 
-        int qtdComparacoes = 0;
-        int qtdTrocas = 0;
+        qtdComparacoes = 0;
+        qtdTrocas = 0;
 
         do
         {
@@ -33,7 +33,7 @@ class Ordenacao
         } while (houveTroca);
     }
 
-    public static void Agitacao(List<int> lista)
+    public static void Agitacao(List<int> lista,out int qtdComparacoes,out int qtdTrocas)
     {
         bool houveTroca;
         int tmp;
@@ -41,8 +41,8 @@ class Ordenacao
         int ini = 0;
         int fim = lista.Count;
 
-        int qtdComparacoes = 0;
-        int qtdTrocas = 0;
+        qtdComparacoes = 0;
+        qtdTrocas = 0;
 
         do
         {
@@ -92,13 +92,12 @@ class Ordenacao
         } while (houveTroca);
     }
 
-    public static void Selecao(List<int> lista)
+    public static void Selecao(List<int> lista,out int qtdComparacoes,out int qtdTrocas)
     {
         int posMenor;
         int tmp;
-
-        int qtdComparacoes = 0;
-        int qtdTrocas = 0;
+        qtdComparacoes = 0;
+        qtdTrocas = 0;
 
         for (int i = 0; i < lista.Count - 1; i++)
         {
@@ -125,14 +124,14 @@ class Ordenacao
         }
     }
 
-    public static void Insercao(List<int> lista)
+    public static void Insercao(List<int> lista,out int qtdComparacoes , out int qtdTrocas)
     {
         int i;
         int j;
         int tmp;
 
-        int qtdComparacoes = 0;
-        int qtdTrocas = 0;
+         qtdComparacoes = 0;
+         qtdTrocas = 0;
 
         for (i = 1; i < lista.Count; i++)
         {
